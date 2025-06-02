@@ -1,0 +1,13 @@
+26/11 : Je viens enfin aujourd'hui d'enregistrer mon premier rapport grace à git que je ne savais pas bien manipuler et je stagne pour faire mon menu pour mon jeux.
+Cela fait depuis la création de mon dépot git.
+27/11 : je vais efectuer mon deuxieme enregistrement, j'ai trouver comment mettre une couleur a mon fond mais je suis hors sujet car je veux pouvoir mettre une image en fond, crée mon titre en le mettant au milieu, faire une belle page menu de mon jeux en bref.
+28/11 : J'ai fais cette fois ci l'affichage d'une image importer d'internet, mon image pour mon menu pour mon jeux et j'ai aussi en meme temps juste mit mon texte "au milieu en haut" de mon ecran d'affichage.
+29/11 : J'ai cette fois si améliorer mon placage de texte "Jeux de paires" et a la meme occasion essayer de faire un carré blanc a l'arrière pour l'esthethique. Je vais passer au jeux.
+01/11 : J'ai cette fois ci encore un probleme avec mon git d'ou l'écart de 29/11 au 01/12, ducoup j'ai avancver en :
+- mettant de nouvelle image pour mon fond d'accueil
+- fait des contour des futures bouton pour le niceau facile, moyen difficile pour mon fond d'accueil
+- creer un nouveau dossier Jeux pour commencer mon interface du jeux
+Et pour ce qui est de mon dossier "Jeux" j'ai dessiner un grand carré (ma table de jeux du jeux) et dessiner tous les carré qui seront à l'intérieur.
+02/11 : Je suis entrain de faire le dispositif pour que les cartes de jeux soit d'abord coter verso pour ensuite une fois cliquer dessus qu'elle se retourne. Et j'ai aussi créé dans mon dossier jeux en plus du NiveauFacile, le niveauMoyen.
+03/11: J'ai pu retourner mes cartes maitenant dans mes jeux sauf que il faut que je perfectionne le rand car il ne marche pas bien et affiche plus que des paires parfois.
+04/11: J'ai pour cette fois la fait marcher le mode aleatoire et aussi le stop de carte, c'est a dire quand 2 cartes sont differentes elle reste face recto. Je vais finaliser apres en faisant le chrono et "switch" de fichier.
