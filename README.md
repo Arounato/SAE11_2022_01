@@ -4,7 +4,9 @@
 Création d'un jeu de paires.
 
 Un PDF explicatif de mon projet fait par moi est disponible dans le dossier principal de ce dépôt. 
+
 Il est nommé : SAE11_2022.pdf
+
 À la table des matières, dans la page 2, vous pourrez y retrouver les six différents compartiments expliquant chacun un thème qui a été demander durant le projet.
 
 Travail de groupe à faire à deux.
