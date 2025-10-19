@@ -12,7 +12,7 @@ Il est nommé : SAE11_2022.pdf
 Travail de groupe à faire à deux.
 
 ## Langage utilisé
-- Langage C
+- C
 
 ## Étapes à suivre pour l'exécution du programme
 
