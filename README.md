@@ -3,24 +3,21 @@
 ## Description du projet
 Création d'un jeu de paires.
 
-Un PDF explicatif de mon projet fait par moi est disponible dans le dossier principal de ce dépôt. 
-
-Il est nommé : SAE11_2022.pdf
-
-À la table des matières, dans la page 2, vous pourrez y retrouver les six différents compartiments expliquant chacun un thème qui a été demander durant le projet.
-
-Travail de groupe à faire à deux.
+Réalisé en groupe de deux personnes.
 
 ## Langage utilisé
 - C
 
-## Étapes à suivre pour l'exécution du programme
+## Outil utilisé
+- Visual Studio Code
 
-1)  **Environnement**
+## Étapes d'exécution
 
-Assurez-vous d'être sur un environnement Ubuntu (sur votre machine principale ou sur une machine virtuelle)
+1. **Environnement :** Assurez-vous d'être sur un environnement Ubuntu (sur votre machine principale ou sur une machine virtuelle).
 
-2)  **Exécution**
+2. **Exécution :** Il n'est pas nécessaire de compiler, le programme est déjà prêt à l'emploi. Exécutez la commande suivante dans votre terminal, en étant dans le dossier principal du programme : **./projet**
 
-Il n'est pas nécessaire de compiler, le programme est déjà prêt à l'emploi. Il vous suffit d'exécuter la commande suivante dans votre terminal, en étant dans le dossier principal du programme :
-./projet
+## Sommaire 
+- **SAE11_2022.pdf** : Fichier explicatif du projet.
+
+Ce document contient, à la table des matières (page 2), les six différents compartiments thématiques demandés pour ce projet.
